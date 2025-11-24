@@ -1,4 +1,4 @@
-[TV.cs](https://github.com/user-attachments/files/23730504/TV.cs)# Practica Camara Micro
+# Practica Camara Micro
 ## Ejercicio 1
 Se creo un script para que, cuando el guerrero principal choque con el otro guerrero suene un sonido de una espada. Enlace al script: 
 
