@@ -1,6 +1,6 @@
 # Practica Camara Micro
 ## Ejercicio 1
-Se creo un script para que, cuando el guerrero principal choque con el otro guerrero suene un sonido de una espada. Enlace al script: 
+Se creo un script para que, cuando el guerrero principal choque con el otro guerrero suene un sonido de una espada. Enlace al script: [ControlGuerrero.cs](https://github.com/user-attachments/files/23730627/ControlGuerrero.cs)
 
 https://github.com/user-attachments/assets/7cc76c7b-08fd-41e3-8660-843f87d2217b
 
